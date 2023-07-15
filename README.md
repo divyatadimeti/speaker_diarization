@@ -1,2 +1,2 @@
 # speaker_diarization
-simple speaker change detector
+simple speaker change detector using Parselmouth
